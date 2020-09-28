@@ -134,17 +134,6 @@
             "hspace": 1,
             "wspace": 1
         },
-        "CenterCrop": {
-            "size": [
-                250,
-                500
-            ],
-            "applied_to": [
-                "im",
-                "gt"
-            ],
-            "preprocessing": true
-        },
         "NumpyToTensor": {},
         "NormalizeInstance": {
             "applied_to": [
